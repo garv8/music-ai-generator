@@ -1,5 +1,7 @@
 # tune.ai
 
+[See how it works!](https://youtu.be/Nh4KomRj3D0)
+
 ## Introduction
 
 Our platform, **tune.ai**, is an AI-driven music generator capable of creating music based on a specific vibe and/or an artist's style. It's a perfect tool for musicians seeking inspiration, businesses developing unique tones for their brand, podcasters, filmmakers, or anyone who loves music.
